@@ -1,1 +1,2 @@
 # LearnPython
+Selfstudy Python language
